@@ -32,61 +32,24 @@
 | <a href="https://cloud.colocrossing.com/aff.php?aff=821"><img src="https://www.colocrossing.com/wp-content/uploads/2017/07/colo-website-logo.svg" alt="ColoCrossing" height="50" style="width:auto;"></a>   | 源物理机房提供商，流量充足 |
 | <a href="https://app.cloudcone.com/?ref=11078"><img src="https://www.cloudcone.com/wp-content/uploads/2021/03/Banner_2-468-x-60.png" width="320" height="50"></a>  | 国内线路优化好，自带免费ipv6地址 |
 
-**国外便宜好用，实测可注册各种app的esim手机卡推荐，只收发短信保号 0.99 美元/月**
-
-https://saily.com  &emsp;优惠推荐码：GESHUO4139
-
 ## <br>订阅地址
 
 ### mihomo
 
-源地址 
 ```
 https://raw.githubusercontent.com/snakem982/proxypool/main/source/clash-meta-2.yaml
 ```
 
-短地址·稳定·不支持浏览器访问
-``` 
-https://kui.sryze.cc/clash-meta-2.yaml 
-```
-
-短地址·备用
-``` 
-https://orp.ryzn.pro/clash-meta-2.yaml 
-```
-
 ### v2ray
 
-源地址 
 ```
 https://raw.githubusercontent.com/snakem982/proxypool/main/source/v2ray-2.txt
 ```
 
-短地址·稳定·不支持浏览器访问
-```
-https://kui.sryze.cc/v2ray-2.txt
-```
-
-短地址·备用 
-```
-https://orp.ryzn.pro/v2ray-2.txt
-```
-
 ### sing-box
 
-源地址 
 ```
 https://raw.githubusercontent.com/snakem982/proxypool/main/source/sing-box-2.json
-```
-
-短地址·稳定·不支持浏览器访问
-```
-https://kui.sryze.cc/sing-box-2.json
-```
-
-短地址·备用 
-```
-https://orp.ryzn.pro/sing-box-2.json
 ```
 
 
