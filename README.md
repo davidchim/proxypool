@@ -18,9 +18,11 @@
 
 | 序号 | 流量/月  |  网速   | CPU核数 | 运行内存  |  硬盘   |  美元/年  |                                查看详情                                |
 |:--:|:-----:|:-----:|:-----:|:-----:|:-----:|:------:|:------------------------------------------------------------------:|
-| 1  | 2000G | 1Gbps |   1   |  2 G  | 30 GB | $9.88 |   [链接](https://billing.dedirock.com/aff.php?aff=870&pid=93 "点击查看")   |
-| 2  | 4000G | 1Gbps |   1   |  1 G  | 25 GB | $18.28 |   [链接](https://app.cloudcone.com/vps/522/create?token=bday26-vps-1&ref=11078 "点击查看")   |
-| 3  | 3000G | 1Gbps |   1   |  1 G  | 20 GB | $21.99 |   [链接](https://my.racknerd.com/aff.php?aff=8613&pid=952 "点击查看")   |
+| 1  | 1000G | 1Gbps |   1   |  768 M  | 10 GB | $10.18 |   [链接](https://billing.dedirock.com/aff.php?aff=870&pid=90 "点击查看")   |
+| 2  | 1000G | 1Gbps |   1   |  1 G  | 10 GB | $10.88 |   [链接](https://billing.dedirock.com/aff.php?aff=870&pid=125 "点击查看")   |
+| 3  | 750G | 1Gbps |   1   |  1 G  | 20 GB | $13.88 |   [链接](https://billing.dedirock.com/aff.php?aff=870&pid=112 "点击查看")   |
+| 4  | 4000G | 1Gbps |   1   |  1 G  | 25 GB | $18.28 |   [链接](https://app.cloudcone.com/vps/522/create?token=bday26-vps-1&ref=11078 "点击查看")   |
+| 5  | 3000G | 1Gbps |   1   |  1 G  | 20 GB | $21.99 |   [链接](https://my.racknerd.com/aff.php?aff=8613&pid=952 "点击查看")   |
 
 **更多vps挑选** 
 > 🌐 推广链接可能产生少量收益以维持本项目的运营与节点更新
